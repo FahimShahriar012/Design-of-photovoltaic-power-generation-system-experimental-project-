@@ -1,4 +1,4 @@
-# Design-of-photovoltaic-power-generation-system-experimental-project
+# Design-of-photovoltaic-power-generation-system-experimental-project-Matlab
 Requirement of experiment 1 (Title: Design experiment of photovoltaic power generation system):
 1.	Please describe the circuit diagram and principle of photovoltaic power generation, as well as the simulation construction (mainly include the selection of filter, switch, inverter circuit, parameter setting).
 2.	Please describe the principle of modulation and simulation construction (mainly include the generation of modulated wave and carrier wave, and parameter setting).
